@@ -1,0 +1,89 @@
+
+a{
+text-decoration: none !important;
+}
+
+
+.navbar-text a{
+	font-size: 18px;
+	color:#6C757D;
+	text-decoration: none;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: black;
+}
+
+.item img{
+	width: 100%;
+}
+
+
+.com-title{
+	border-left:7px solid green;
+	padding-left: 4px;
+}
+
+.condition{
+	position: absolute;
+	padding: 5px  10px;
+	background-color: red;
+	border-radius: 0px 15px 7px 9px;
+	color: white;
+}
+.footer{
+	background-color:  #006080;
+}
+.com-footer-link{
+  margin-top: 20px;	
+}
+
+
+.com-footer-link h3{
+  color: white;
+}
+
+.com-footer-link a{
+  display: block;
+  color: #F0FFFF;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.com-footer-link a:hover{
+	color:#FFDEAD;
+}
+
+.footer-social-link{
+	margin-top: 20px;
+}
+
+.footer-social-link h3{
+	color: white;
+}
+
+.footer-social-link a{
+  color: #F0FFFF;
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+.footer-social-link a:hover{
+	color:#FFDEAD;
+}
+
+.footer-about{
+	margin-top:20px;
+}
+
+.footer-about p{
+	margin-top:10px;
+	color: white;
+}
+.footer-bottom{
+	padding: 20px;
+}
